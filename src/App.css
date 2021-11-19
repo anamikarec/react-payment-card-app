@@ -12,7 +12,7 @@
   border-radius: 5px;
   height: 250px;
   background-color: rgb(255,165,0);
-  padding: 10px;
+  padding: 50px;
   font-size: 18px;
   font-weight: 700;
 }
@@ -20,7 +20,7 @@
   height: 250px;
   background-color: rgb(245,245,245);
   margin-top: 20px;
-  padding: 10px;
+  padding: 50px;
   font-size: 18px;
   font-weight: 700;
   border-radius: 5px;
@@ -47,8 +47,9 @@
   padding: 3px;
   width: 100px;
   margin-top: -5px;
+  border: 1px solid black;
 }
 .bigFont{
-  font-size:30px;
+  font-size:40px;
   line-height:5px;
 }
